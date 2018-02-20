@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "2067a79f73a8ba9a9b0e7c44c6267095"
+build_time: [1519124349, 490265000]
+inputs:
+  "/Users/ikovryzhk/Desktop/EmptyApp/EmptyApp/ViewController.swift": [1519124344, 0]
+  "/Users/ikovryzhk/Desktop/EmptyApp/EmptyApp/AppDelegate.swift": [1519124344, 0]
